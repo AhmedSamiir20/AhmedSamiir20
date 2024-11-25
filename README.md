@@ -10,9 +10,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp;I’m currently working on [Mal3b](https://github.com/AhmedSamiir20/Mal3b) .
-🌱 &nbsp;I’m currently learning **Angular** .
-💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.
+🔭 &nbsp;I’m currently working on [Mal3b](https://github.com/AhmedSamiir20/Mal3b) ./
+🌱 &nbsp;I’m currently learning **Angular** ./
+💬 &nbsp;Feel free to reach out to me or just for some interesting discussion./
 ✉️ &nbsp;You can shoot me an email at **ahmedsamiirr20@gmail.com** I'll try to respond as soon as I can.
 <hr>
 
