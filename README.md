@@ -8,13 +8,14 @@
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
-🔭 &nbsp;I’m currently working on [Mal3b](https://github.com/AhmedSamiir20/Mal3b) ./
-🌱 &nbsp;I’m currently learning **Angular** ./
-💬 &nbsp;Feel free to reach out to me or just for some interesting discussion./
-✉️ &nbsp;You can shoot me an email at **ahmedsamiirr20@gmail.com** I'll try to respond as soon as I can.
-<hr>
+- 🔭 I’m currently working on [Mal3b](https://github.com/AhmedSamiir20/Mal3b).
+- 🌱 I’m currently learning **Angular**.
+- 💬 Feel free to reach out to me or just for some interesting discussion.
+- ✉️ You can shoot me an email at **ahmedsamiirr20@gmail.com** I'll try to respond as soon as I can.
+
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
