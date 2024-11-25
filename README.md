@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedSamiir20&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedSamiir20" /> </p>
 
-<img align="right" alt="Coding" width="220" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp;I’m currently working on [Mal3b](https://github.com/AhmedSamiir20/Mal3b) .\
-🌱 &nbsp;I’m currently learning **Angular** .\
-💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at **ahmedsamiirr20@gmail.com** I'll try to respond as soon as I can.\
+🔭 &nbsp;I’m currently working on [Mal3b](https://github.com/AhmedSamiir20/Mal3b) .
+🌱 &nbsp;I’m currently learning **Angular** .
+💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.
+✉️ &nbsp;You can shoot me an email at **ahmedsamiirr20@gmail.com** I'll try to respond as soon as I can.
 <hr>
 
 ### 🤝🏻 &nbsp;Connect with Me
